@@ -99,7 +99,7 @@ Total tour cost: 35.0
 
 ![test_result3](https://github.com/KalengBalsem/Tantangan_15223011/blob/eb23004ee20800eca0ada7e401d70b6a244368f2/test_results/test_result3.png)
 
-https://github.com/KalengBalsem/Tantangan_15223011/blob/eb23004ee20800eca0ada7e401d70b6a244368f2/test_results/test_result4.png
+![test_result4](https://github.com/KalengBalsem/Tantangan_15223011/blob/eb23004ee20800eca0ada7e401d70b6a244368f2/test_results/test_result4.png)
 
 ## Author
 | Name           | ID       | Class |
