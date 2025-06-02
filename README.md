@@ -32,7 +32,7 @@ A test `.txt` file must follow this structure (e.g., `tests/test1.txt`):
 ## How to Run
 
 ### Dependencies
-- **Ruby**: Version 2.7 or higher (3.x recommended). Install from [ruby-lang.org](https://www.ruby-lang.org/).
+- **Ruby**
   - Required standard libraries: `set` and `matrix` (included with Ruby).
 
 ### Running the Program
@@ -46,10 +46,10 @@ A test `.txt` file must follow this structure (e.g., `tests/test1.txt`):
    - Place your adjacency matrix file (e.g., `test1.txt`) in the `tests/` directory.
    - Example content for `tests/test1.txt`:
      ```
-     0 inf 10 15
-     inf 0 20 25
-     10 20 0 30
-     15 25 30 0
+      0 10 15 20
+      5 0 9 10
+      6 13 0 12
+      8 8 9 0
      ```
 
 3. **Run the Program**:
@@ -69,10 +69,10 @@ A test `.txt` file must follow this structure (e.g., `tests/test1.txt`):
    Input matrix:
         |     1 |     2 |     3 |     4 |
    -----+-------+-------+-------+-------+
-      1 |   0.0 |   inf |  10.0 |  15.0 |
-      2 |   inf |   0.0 |  20.0 |  25.0 |
-      3 |  10.0 |  20.0 |   0.0 |  30.0 |
-      4 |  15.0 |  25.0 |  30.0 |   0.0 |
+      1 |   0.0 |  10.0 |  15.0 |  20.0 |
+      2 |   5.0 |   0.0 |   9.0 |  10.0 |
+      3 |   6.0 |  13.0 |   0.0 |  12.0 |
+      4 |   8.0 |   8.0 |   9.0 |   0.0 |
 
    Enter the starting city (1 to 4):
    1
