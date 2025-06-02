@@ -56,7 +56,7 @@ A test `.txt` file must follow this structure (e.g., `tests/test1.txt`):
    - Navigate to the project root directory.
    - Execute the Ruby script:
      ```bash
-     ruby tsp.rb
+     ruby main.rb
      ```
    - Follow the prompts:
      - Enter the test file name (e.g., `test1.txt`).
